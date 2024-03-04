@@ -1,10 +1,15 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
+
 <div>
   
   <h1 align="center">
     <img align="center" alt="React" height="100" width="100" src="https://github.com/GustavoEmiliano/GustavoEmiliano/blob/main/assets/1704307563178.png" alt="Instituto Federal"><br><br>
-    Olá! Bem Vindo a minha página no Github<br> Eu sou o 
+    
+  
+  Olá! Bem Vindo a minha página no Github<br> Eu sou o 
     <a href="https://www.linkedin.com/in/gustavo-emiliano-936341294/">Gustavo Emiliano 😃️<br></a>
     Sou estudante do Instituto Federal de Ciência e Tecnologia de São Paulo<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E0FFFF&size=35&center=true&vCenter=true&width=1000&lines=Acompanhe+o+meu+progresso+aqui+no+meu+perfil!+:%29)](https://git.io/typing-svg)
 
   </h1>
   
@@ -55,4 +60,5 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GustavoEmiliano}/count.svg" /></p> 
 <br></div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
 
