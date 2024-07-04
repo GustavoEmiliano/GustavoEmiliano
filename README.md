@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B19CD9&height=120&section=header">
 
 <div>
   
@@ -21,12 +21,15 @@
   
 </div>
 
+   
 <div align="center">
-  <a href="https://github.com/GustavoEmiliano">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoEmiliano&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoEmiliano&theme=dark&hide_border=false&&layout=compact"/>
-  </a>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoEmiliano&show_icons=true&theme=tokyonight" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoEmiliano&show_icons=true&theme=tokyonight" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GustavoEmiliano&show_icons=true&theme=tokyonight" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GustavoEmiliano&theme=tokyonight&locale=pt_BR" alt="GitHub Streak" /></a>
 </div>
+
 
 <div align="center" valign="top"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -68,5 +71,5 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GustavoEmiliano}/count.svg" /></p> 
 <br></div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B19CD9&height=120&section=footer"/>
 
