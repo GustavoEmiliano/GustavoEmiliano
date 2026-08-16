@@ -1,75 +1,185 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B19CD9&height=120&section=header">
-
-<div>
-  
-  <h1 align="center">
-    <img align="center" alt="React" height="100" width="100" src="https://github.com/GustavoEmiliano/GustavoEmiliano/blob/main/assets/1704307563178.png" alt="Instituto Federal"><br><br>
-    
-  
-  Olá! Bem Vindo a minha página no Github<br> Eu sou o 
-    <a href="https://www.linkedin.com/in/gustavo-emiliano-936341294/">Gustavo Emiliano 😃️<br></a>
-    Sou estudante do Instituto Federal de Ciência e Tecnologia de São Paulo<br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E0FFFF&size=35&center=true&vCenter=true&width=1000&lines=Acompanhe+o+meu+progresso+aqui+no+meu+perfil!+:%29)](https://git.io/typing-svg)
-
-  </h1>
-  
-  <p align="center">
-    Sou Desenvolvedor de Softwares e aqui você acompanhara o meu progresso na área
-    
-  </p>
-  
-  
-</div>
-
-   
 <div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoEmiliano&show_icons=true&theme=tokyonight" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoEmiliano&show_icons=true&theme=tokyonight" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GustavoEmiliano&show_icons=true&theme=tokyonight" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GustavoEmiliano&theme=tokyonight&locale=pt_BR" alt="GitHub Streak" /></a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,50:1e3a8a,100:3b82f6&text=GUSTAVO%20EMILIANO&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;FULL+STACK+DEVELOPER;JAVA+%7C+SPRING+BOOT+%7C+ANGULAR;AUTOMATION+%7C+SOFTWARE+ENGINEERING;WELCOME+TO+MY+CODE+UNIVERSE"/>
+
 </div>
 
+---
 
-<div align="center" valign="top"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-</div>
+## 🤖 GUSTAVO AI CORE
 
-<div align="center" valign="top"><br>
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" alt="VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-  <img align="center" alt="Visual Studio Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Intelij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
-  <img align="center" alt="PS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
-  <img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png">
-</div><br>
+```bash
+╭────────────────────────────╮
+│    GUSTAVO SYSTEM v2.0     │
+╰────────────────────────────╯
 
+Initializing system...
+
+████████████████████ 100%
+
+✔ Developer detected
+✔ Scalability engine activated
+✔ Code optimization enabled
+✔ Projects loaded
+
+STATUS: ONLINE 🚀
+```
+
+---
+
+## 👨‍💻 About Me
+
+```javascript
+const Gustavo = {
+
+  name: "Gustavo Emiliano de Jesus dos Santos",
+
+  role: "Full Stack Developer",
+
+  location: "São Paulo, Brazil 🇧🇷",
+
+  education: {
+    degree: "Curso Técnico em Informática Integrado ao Ensino Médio",
+    institution: "Instituto Federal de São Paulo (IFSP)",
+    status: "Concluído ✔"
+  },
+
+  stack: {
+    frontend: [
+      "Angular",
+      "TypeScript",
+      "JavaScript",
+      "SCSS",
+      "Tailwind CSS",
+      "HTML & CSS"
+    ],
+
+    backend: [
+      "Java",
+      "Spring Boot",
+      "Spring Data JPA",
+      "Hibernate",
+      "Python"
+    ],
+
+    database: [
+      "Oracle",
+      "MySQL",
+      "PostgreSQL"
+    ]
+  },
+
+  tools: [
+    "Git & GitLab",
+    "Jenkins",
+    "Docker",
+    "Figma",
+    "IntelliJ & VS Code"
+  ],
+
+  passion:
+  "Building scalable corporate solutions 🚀"
+
+}
+```
+
+---
+
+## ⚡ Tech Stack
 
 <div align="center">
-  <a href="https://www.instagram.com/gustaemiliano/?hl=bg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavo-emiliano-936341294/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:gustavoemiliano2014@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+<img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,angular,tailwind,java,spring,maven,hibernate,python,php,laravel,sqlite,mysql,postgres,docker,git,github,gitlab,jenkins,postman,figma,idea,vscode&perline=13"/>
+
 </div>
 
+---
 
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+## 🚀 Featured Projects
+
+| 🚀 Project | 💡 Description |
+|---|---|
+| 🟡 **Yokohama Seguros** | Insurance Quote System (Java Swing) |
+| 📦 **Argus** | Inventory Management System — TCC (Laravel/PHP) |
+
+---
+
+## 🧠 Current Mission
+
+```bash
+> Loading objectives...
+
+[██████████] Java & Spring Boot Development
+
+[████████░░] Angular Architecture
+
+[███████░░░] System Integration & Automation
+
+[██████████] Creating Scalable Projects
+
+STATUS:
+Never stop learning 🚀
+```
+
+---
+
+## 📊 Developer Metrics
 
 <div align="center">
-  <p>Obrigado por ter visitado meu perfil :heart:</p>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GustavoEmiliano&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GustavoEmiliano&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoEmiliano&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
 </div>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{GustavoEmiliano}/count.svg" /></p> 
-<br></div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B19CD9&height=120&section=footer"/>
 
+
+---
+
+## 🌎 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/GustavoEmiliano">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/gustavo-emiliano-936341294/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:gustavoemiliano2014@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 "Turning ideas into code and code into scalable experiences."
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=GustavoEmiliano&style=for-the-badge&color=1e3a8a&label=PROFILE+VIEWS"/>
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoEmiliano/GustavoEmiliano/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoEmiliano/GustavoEmiliano/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GustavoEmiliano/GustavoEmiliano/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050505,50:1e3a8a,100:3b82f6"/>
