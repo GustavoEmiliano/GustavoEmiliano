@@ -160,16 +160,6 @@ Never stop learning 🚀
 
 ---
 
-<div align="center">
-
-### 💙 "Turning ideas into code and code into scalable experiences."
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=GustavoEmiliano&style=for-the-badge&color=1e3a8a&label=PROFILE+VIEWS"/>
-
-</div>
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -178,6 +168,16 @@ Never stop learning 🚀
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoEmiliano/GustavoEmiliano/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GustavoEmiliano/GustavoEmiliano/output/github-contribution-grid-snake-dark.svg">
   </picture>
+</div>
+
+<div align="center">
+
+### 💙 "Turning ideas into code and code into scalable experiences."
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=GustavoEmiliano&style=for-the-badge&color=1e3a8a&label=PROFILE+VIEWS"/>
+
 </div>
 
 ---
